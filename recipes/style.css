@@ -1,0 +1,56 @@
+body{
+    background-color: darkslategrey;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    color:bisque;
+}
+
+h1{
+    font-size:60px;
+    font-family: "Lucida Console", "Lucida Sans Typewriter", monaco, "Bitstream Vera Sans Mono", monospace;
+    text-align:center;
+    color: darksalmon;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+
+h2{
+    font-size:30px;
+    color:darksalmon;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace ;
+}
+
+h2.side{
+    text-align:left;
+
+}
+
+ul{
+    font-size: 20px;
+    line-height: 1.5;
+    font-family:'Courier New', Courier, monospace;
+    text-align:left;
+}
+
+h3{
+    color:aliceblue;
+    font-size:25;
+}
+
+.step{
+    line-height: 1.5;
+}
+
+a{
+    color:tomato;
+}
+a:hover{
+    color:coral;
+}
+
