@@ -1,46 +1,88 @@
 body{
-    background-color: darkslategrey;
-    font-size: 20px;
-    font-family: 'Courier New', Courier, monospace;
-    color:bisque;
+    background-color: #F4FFFDFF;
+    font-size: 25px;
+    font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;;
+}
+
+.design{
+    background-color: #011936FF;
+    margin: 50px 300px 0px 300px;
+}
+
+
+p{
+    margin-left: 30px;
 }
 
 h1{
     font-size:60px;
     font-family: "Lucida Console", "Lucida Sans Typewriter", monaco, "Bitstream Vera Sans Mono", monospace;
     text-align:center;
-    color: darksalmon;
+    color:  #FCF6F5FF;
+    background-color: #ED254EFF;
+    padding: 15px;
+    margin: 0 -150px;
 }
 
 img{
     display: block;
     margin-left: auto;
-    margin-right:auto;
+    margin-right: auto;
+    margin-top: 50px;
+    background-color: white;
+    padding: 10px;
 }
 
 
 h2{
-    font-size:30px;
-    color:darksalmon;
+    font-size:28px;
+    color:#ED254EFF;
     text-align: center;
     font-family:'Courier New', Courier, monospace ;
+    background-color:#F9DC5CFF;
+    margin: 20px 40px;
+    padding: 10px;
 }
 
 h2.side{
+    font-size: 30px;
     text-align:left;
-
+    margin-left: 30px;
+    background-color: #F9DC5CFF;
+    padding: 10px 0px 10px 20px;
 }
 
+
+.indesign{
+    background-color: #F4FFFDFF;
+    margin: 30px 30px;
+    padding: 5px 0 5px 0;
+    color: #011936FF;
+}
+
+
 ul{
-    font-size: 20px;
+    font-size: 25px;
     line-height: 1.5;
     font-family:'Courier New', Courier, monospace;
     text-align:left;
 }
 
 h3{
-    color:aliceblue;
+    
+    color:#F9DC5CFF;
     font-size:25;
+    margin-left: 30px;
+    background-color:#ED254EFF;
+    margin: 20px 1000px 0 20px;
+    padding: 10px;
+
+}
+.footer{
+    background-color: #F4FFFDFF;
+    margin: 30px 30px -60px 30px;
+    padding: 5px 0 0 0;
+    color: #011936FF;
 }
 
 .step{
