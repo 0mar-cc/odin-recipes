@@ -1,41 +1,68 @@
 body{
-    background-color: darkslategrey;
+    background-color: #011936FF;
+    font-family: "Lucida Console", "Lucida Sans Typewriter", monaco, "Bitstream Vera Sans Mono", monospace;;
+}
+
+.design{
+    background-color: #FCF6F5FF;
+    margin: 50px 300px 0px 300px;
 }
 
 h1{
     font-size:60px;
     font-family: "Lucida Console", "Lucida Sans Typewriter", monaco, "Bitstream Vera Sans Mono", monospace;
     text-align:center;
-    color: darkgoldenrod;
+    color:  #FCF6F5FF;
+    background-color: #F9DC5CFF;
+    padding: 15px;
+    margin: 0 -150px;
 }
 
 img{
     display: block;
     margin-left: auto;
-    margin-right:auto;
+    margin-right: auto;
+    margin-top: 50px;
+    background-color: white;
+    
 }
 
 
 h2{
     font-size:30px;
-    color:darkgoldenrod;
+    color:#011936FF;
     text-align: center;
-    font-family:'Courier New', Courier, monospace ;
+    background-color:#F9DC5CFF;
+    margin: 20px 40px;
+    padding: 10px;
+}
+
+.indesign{
+    background-color: #F4FFFDFF;
+    margin: 30px 30px;
+    padding: 5px 0 5px 0;
+    color: #011936FF;
 }
 
 ul{
-    font-size: 20px;
-    line-height: 1.5;
-    font-family:'Courier New', Courier, monospace;
+    font-size: 30px;
+    font-weight: bold;
     text-align:center;
     list-style: none;
+    line-height: 1.5;
+}
+
+li{
+    background-color:#ED254EFF;
+    padding: 10px;
+    margin: 15px 200px 15px 150px;
 }
 
 ul a{
-    color:darksalmon;
+    color:#F4FFFDFF;
 }
 
 ul a:hover{
-    color: indianred;
+    color: wheat;
 }
 
